@@ -37,3 +37,7 @@ Google Gemini AI designed a simple automation based on Python
 
 # Cheers
 
+<img width="1280" height="800" alt="thumbnail" src="https://github.com/user-attachments/assets/e75a84b0-cab0-4a19-967e-5493cfb7257b" />
+
+
+
