@@ -28,7 +28,8 @@ if any one internal microservice response is fail, then entrypoint1 responds wit
 there is simple logging implements
 
 # Manual testing using POSTMAN
-need to use service.proto
+need to import service.proto file - https://github.com/imademethink/grpc_demo/blob/main/qa/service.proto
+postman collection link https://web.postman.co/workspace/My-Workspace~0c40b27d-d372-48d1-8840-a7cd2908b70c/collection/694d777ca01b6da78de879e8?action=share&source=copy-link&creator=3085350
 
 # Automation
 Google Gemini AI designed a simple automation based on Python
