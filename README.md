@@ -8,11 +8,6 @@
 
 <img width="1280" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/6670c126-32d1-44fd-aa1e-d2818b31cdce" />
 
-
-
-
-
-
 Backend development prompt https://gemini.google.com/share/181a3c873a30
 
 Developed the backend stack from scratch.
@@ -36,6 +31,11 @@ if response from all 3 microservice is success, then entrypoint1 responds with s
 if any one internal microservice response is fail, then entrypoint1 responds with failure
 
 there is simple logging implements
+
+# Docker steps
+docker-compose up --build
+
+docker compose down
 
 # Manual testing using POSTMAN
 need to import service.proto file - https://github.com/imademethink/grpc_demo/blob/main/qa/service.proto
