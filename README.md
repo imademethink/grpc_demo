@@ -3,6 +3,16 @@
 # POSTMAN collection available
 # Automation development using Python for positive and negative scenarios
 
+<img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/3f7a2a89-a86b-4a61-9892-89466fa61b6c" />
+.
+
+<img width="1280" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/6670c126-32d1-44fd-aa1e-d2818b31cdce" />
+
+
+
+
+
+
 Backend development prompt https://gemini.google.com/share/181a3c873a30
 
 Developed the backend stack from scratch.
