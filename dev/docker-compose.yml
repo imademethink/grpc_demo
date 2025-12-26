@@ -1,0 +1,20 @@
+services:
+  identity1:
+    build: ./identity1
+    ports: ["5001:5001"]
+
+  payment1:
+    build: ./payment1
+    ports: ["5002:5002"]
+
+  routing1:
+    build: ./routing1
+    ports: ["5003:5003"]
+
+  entrypoint1:
+    build: ./entrypoint1
+    ports: ["50051:50051"]
+    depends_on:
+      - identity1
+      - payment1
+      - routing1

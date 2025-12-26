@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package ride;
+
+service RideService {
+  rpc CreateRide (RideRequest) returns (RideResponse) {}
+}
+
+message RideRequest {
+  string user_name = 1;
+  int32 amount = 2;
+  string source = 3;
+  string destination = 4;
+}
+
+message RideResponse {
+  string message = 1;
+}
