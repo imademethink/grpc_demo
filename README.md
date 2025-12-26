@@ -45,9 +45,9 @@ postman collection link https://web.postman.co/workspace/My-Workspace~0c40b27d-d
 # Automation
 Google Gemini AI designed a simple automation based on Python
 
+
+# Article on medium.com
+https://medium.com/@shrikant.swami/ai-assisted-prompt-based-grpc-basic-app-development-from-scratch-52fcb99a64d0
+
+
 # Cheers
-
-<img width="1280" height="800" alt="thumbnail" src="https://github.com/user-attachments/assets/e75a84b0-cab0-4a19-967e-5493cfb7257b" />
-
-
-
