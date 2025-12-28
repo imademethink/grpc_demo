@@ -3,6 +3,8 @@
 # POSTMAN collection available
 # Automation development using Python for positive and negative scenarios
 
+More info here :  https://youtu.be/6-l_fozYRwc
+
 <img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/3f7a2a89-a86b-4a61-9892-89466fa61b6c" />
 .
 
