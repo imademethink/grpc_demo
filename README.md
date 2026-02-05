@@ -51,6 +51,15 @@ postman collection link https://web.postman.co/workspace/My-Workspace~0c40b27d-d
 Google Gemini AI designed a simple automation based on Python
 
 
+# What makes it stand out?
+
+It is AI assisted for quick development, manual/ automation testing
+
+# Tech Stack:
+
+Python, gRPC, HTTP 2 protocol
+
+
 # Article on medium.com
 https://medium.com/@shrikant.swami/ai-assisted-prompt-based-grpc-basic-app-development-from-scratch-52fcb99a64d0
 
